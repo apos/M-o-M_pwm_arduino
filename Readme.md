@@ -8,12 +8,13 @@ Program for a custom made "Mirror-o-Matic" machine controlling two motors
 * We are using BTS7960 43A H-bridges for controlling an 12V and an 24V motor (3A)with PWM.
 * ( We are using HM-10 for bluetooth communication -> TODO )
 
-Axel Pospischil
-Homepage http://wiki.blue-it.org
-Project: https://github.com/apos/M-o-M_pwm_arduino
-Copyright (GNU public licence v. 3.0): 
-
 Read the Changelog.md and Readme.md files contained in the source folder.
+
+Author: Axel Pospischil (Homepage http://wiki.blue-it.org)
+Projectpage: https://github.com/apos/M-o-M_pwm_arduino
+
+Copyright (GNU public licence v. 3.0)
+
 
 # Usage:
 
