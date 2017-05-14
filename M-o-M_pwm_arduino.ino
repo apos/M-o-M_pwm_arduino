@@ -23,9 +23,11 @@ Read the Changelog.md and Readme.md files contained in the source folder.
 /////////////////////////////////////////////////////////////////
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
-#include <Keypad_I2C.h>
 #include <Keypad.h>
 #include <EEPROM.h>
+/* G. D. (Joe) Young: https://github.com/joeyoung/arduino_keypads */
+#include <Keypad_I2C.h>
+/*http://playground.arduino.cc/Code/EEPROMWriteAnything*/
 #include <EEPROMAnything.h>
 
 // not used yet because of problems with setting the address
