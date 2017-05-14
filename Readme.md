@@ -7,10 +7,10 @@ We are using HM-10 for bluetooth communication
 We are using TCST2103 transmissive optical sensors for controlling the speed of the motors.
 We are using BTS7960 43A H-bridges for controlling an 12V and an 24V motor (3A)with PWM.
 
-Homepage http://wiki.blue-it.org
-Copyright (GNU public licence v. 2.0): 
 Axel Pospischil
-apos@gmx.de
+Homepage http://wiki.blue-it.org
+Project: https://github.com/apos/M-o-M_pwm_arduino
+Copyright (GNU public licence v. 3.0): 
 
 Read the Changelog.md and Readme.md files contained in the source folder.
 
