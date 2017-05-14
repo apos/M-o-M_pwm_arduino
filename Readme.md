@@ -9,6 +9,7 @@ Program for a custom made "Mirror-o-Matic" machine controlling two motors
 * ( We are using HM-10 for bluetooth communication -> TODO )
 
 Read the Changelog.md and Readme.md files contained in the source folder.
+I will add some pictures here later and a Youtube video.
 
 Author: Axel Pospischil (Homepage http://wiki.blue-it.org)
 Projectpage: https://github.com/apos/M-o-M_pwm_arduino
