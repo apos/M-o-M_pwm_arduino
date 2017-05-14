@@ -1,3 +1,19 @@
+# FUN with your Mirror-o-Matic (12/24V)
+ 
+Program for a custom made "Mirror-o-Matic" machine controlling two motors 
+(turntable and ExtenderWheel) with and arduino (nano) and pwm.
+We are using I2C for input devices like the 4x4 keypad and the 16x2 lcd screen.
+We are using HM-10 for bluetooth communication
+We are using TCST2103 transmissive optical sensors for controlling the speed of the motors.
+We are using BTS7960 43A H-bridges for controlling an 12V and an 24V motor (3A)with PWM.
+
+Homepage http://wiki.blue-it.org
+Copyright (GNU public licence v. 2.0): 
+Axel Pospischil
+apos@gmx.de
+
+Read the Changelog.md and Readme.md files contained in the source folder.
+
 # Usage:
 
 The software starts by default in Timer-Mode.
