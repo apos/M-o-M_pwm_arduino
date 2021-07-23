@@ -17,8 +17,8 @@ Projectpage: https://github.com/apos/M-o-M_pwm_arduino
 Copyright (GNU public licence v. 3.0)
 
 # Youtube
+[PJ GRINDING MACHINE 02 MIRROR O MATIC ADDON](https://www.youtube.com/watch?v=W_2SUSXZNdI&lc=UgxEij9nX77tk49kNYV4AaABAg)
 
-https://www.youtube.com/watch?v=W_2SUSXZNdI&lc=UgxEij9nX77tk49kNYV4AaABAg
 
 # Usage:
 
