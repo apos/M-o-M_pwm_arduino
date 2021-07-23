@@ -3,10 +3,10 @@
 Program for a custom made "Mirror-o-Matic" machine controlling two motors 
 (turntable and ExtenderWheel) with and arduino (nano) and pwm.
 
-* We are using I2C for input devices like the 4x4 keypad and the 16x2 lcd screen.
-* We are using TCST2103 transmissive optical sensors for controlling the speed of the motors.
-* We are using BTS7960 43A H-bridges for controlling an 12V and an 24V motor (3A)with PWM.
-* ( We are using HM-10 for bluetooth communication -> TODO )
+* I2C for input devices like the 4x4 keypad and the 16x2 lcd screen.
+* TCST2103 transmissive optical sensors for controlling the speed of the motors.
+* BTS7960 43A H-bridges for controlling an 12V and an 24V motor (3A)with PWM.
+* ( NOT YET:  HM-10 for bluetooth communication -> TODO )
 
 Read the Changelog.md and Readme.md files contained in the source folder.
 I will add some pictures here later and a Youtube video.
