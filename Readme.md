@@ -17,10 +17,18 @@ Projectpage: https://github.com/apos/M-o-M_pwm_arduino
 Copyright (GNU public licence v. 3.0)
 
 # Youtube
-[PJ GRINDING MACHINE 02 MIRROR O MATIC ADDON](https://www.youtube.com/watch?v=W_2SUSXZNdI&lc=UgxEij9nX77tk49kNYV4AaABAg)
+## PWM  Control
+* [PJ GRINDING MACHINE 02 MIRROR O MATIC ADDON](https://www.youtube.com/watch?v=W_2SUSXZNdI&lc=UgxEij9nX77tk49kNYV4AaABAg)
+* [PJ GRINDING MACHINE 04 M o M ARDUINO PWM CONTROL](https://www.youtube.com/watch?v=YxokEaPPAnw)
 
+## Mechanics
+* [PJ GRINDING MACHINE 03 M o M MECHANICAL IMPROVEMENTS](https://www.youtube.com/watch?v=RE188T7EMZc)
+
+The beginning
+* [PJ GRINDING MACHINE 01 BEGINNINGS SIMPLE TURNTABLE](https://www.youtube.com/watch?v=lFEgYPGz94I)
 
 # Usage:
+See also: [PJ GRINDING MACHINE 04 M o M ARDUINO PWM CONTROL](https://www.youtube.com/watch?v=YxokEaPPAnw)
 
 The software starts by default in Timer-Mode.
 By default the turntable is selected.
