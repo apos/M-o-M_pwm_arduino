@@ -1,7 +1,7 @@
 # FUN with your Mirror-o-Matic (12/24V)
  
 Program for a custom made "Mirror-o-Matic" machine controlling two motors 
-(turntable and ExtenderWheel) with and arduino (nano) and pwm.
+(turntable and extender wheel) with an arduino (nano) and pwm.
 
 * I2C for input devices like the 4x4 keypad and the 16x2 lcd screen.
 * TCST2103 transmissive optical sensors for controlling the speed of the motors.
